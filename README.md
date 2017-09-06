@@ -8,7 +8,7 @@ A description of files follows:
            
            g++ -std=c++11 pdb_calpha_dist.cpp -o pdb_calpha_dist.exe
   
-  2) pdb_calpha_dist.exe - binary executable file (Linux-x86_64-multicore () 
+  2) pdb_calpha_dist.exe - binary executable file (Linux-x86_64-multicore OS) 
   3) pdb_distances_multiple.sh - bash script to run analysis for a group of PDB structures. Having all desired pdbs in your folder, run the multiple calculation to all models with the command above. Outputs are generated individually for each structure.
   
           bash pdb_distances_multiple.sh
